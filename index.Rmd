@@ -119,6 +119,8 @@ todays date, not just a static date you enter.
 
 ## DyGraph example. 
 
+This is my example
+
 
 ## Poudre Paragraph
 
